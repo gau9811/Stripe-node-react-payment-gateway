@@ -1,1 +1,1 @@
-# Stripe_node_react
+# Stripe_payment_gateway_node_react
